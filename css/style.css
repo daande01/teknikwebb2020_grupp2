@@ -1,7 +1,4 @@
-
-
 #wrapper{
-  
   height: 800px;
   width:1000px;
   background-color: pink;
@@ -9,9 +6,9 @@
   margin-right: auto;
 }
 header{
-width: 1000px;
-height: 130px;
-background-color: green;
+  width: 1000px;
+  height: 130px;
+  background-color: green;
   
 }
 nav{
