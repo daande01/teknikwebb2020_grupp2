@@ -1,0 +1,35 @@
+
+
+#wrapper{
+  
+  height: 800px;
+  width:1000px;
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+width: 1000px;
+height: 130px;
+background-color: green;
+  
+}
+nav{
+  width: 1000px;
+  height: 60px;
+  background-color: orange;
+  
+}
+#center{
+  display:flex;
+}
+main{
+  height:400px;
+  width:800px;
+  background-color: black;
+}
+aside{
+  height:400px;
+  width:100px;
+  background-color: purple;
+}
